@@ -21,4 +21,4 @@
  * Aucun (Quelques notions en programmation sera un plus).
  
  # ``` Contenu: ```
- 1. [`Introduction aux systèmes embarqués`](..) - ``` 07 Décembre 2020 ``` ;
+ 1. [`Introduction aux systèmes embarqués`](https://github.com/pape-barro/UT-UFRSET-2021-SE/blob/main/Introduction_aux_systemes_embarques.pdf) - ``` 30 Octobre 2021 ``` ;
